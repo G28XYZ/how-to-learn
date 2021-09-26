@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap");
-
 /* <header> {{{ */
 
 .page {
@@ -42,7 +40,6 @@
   margin: auto 0 auto 64px;
   font-size: 102px;
   line-height: 96px;
-  width: 730px;
   font-weight: bold;
 }
 
@@ -58,11 +55,6 @@
 
 .header__link {
   text-decoration: none;
-}
-
-.header__link:after {
-  font-family: "Fira Code", monospace;
-  content: " ->";
 }
 
 .header__main-illustration {
@@ -210,11 +202,6 @@
   text-decoration: none;
 }
 
-.feynman__link:after {
-  font-family: "Fira Code", monospace;
-  content: " ->";
-}
-
 .feynman__img-photo {
   width: 867px;
   height: 637px;
@@ -289,6 +276,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  flex-basis: 711px;
 }
 
 .footer__author {
@@ -315,10 +303,6 @@
   font-size: 18px;
   text-decoration: none;
   color: white;
-}
-
-.footer__column_content_copyright {
-  flex-basis: 711px;
 }
 
 /* }}} </footer> */
