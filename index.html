@@ -11,7 +11,7 @@
   <body>
     <div class="page">
       <!-- HEADER {{{ -->
-      <header class="header">
+      <header class="header bg-color_grey">
         <img
           src="./images/logo_place_header.svg"
           alt="logo YandexPracticum"
@@ -20,7 +20,7 @@
         <h1 class="header__title">Научиться учиться</h1>
         <p class="header__subtitle">
           Какие современные и эффективные подходы к обучению вы можете использовать в своей жизни?
-          <a class="header__link color-text_blue" href="#feynman">Узнать -></a>
+          <a class="header__link color-text_blue" href="#feynman">Узнать</a>
         </p>
         <img class="header__main-illustration" src="./images/header-image.png" alt="main image" />
         <div class="header__square-pic"></div>
@@ -83,8 +83,8 @@
               <h4 class="table__heading">420 миллионов</h4>
               <p class="table__text">
                 Число взрослых людей моложе 25 лет, не имеющих образования для трудоустройства
-                <p class="table__text">Всемирный Банк, 2017</p>
               </p>
+              <p class="table__text">Всемирный Банк, 2017</p>
             </div>
 
             <div class="table__cell">
@@ -104,7 +104,12 @@
           </div>
         </section>
 
-        <section class="feynman"></section>
+        <section class="feynman bg-color_grey" id="feynman">
+          <h2 class="feynman__title">Метод Фейнмана</h2>
+          <h3 class="feynman__subtitle">Выучить и не забыть.</h3>
+          <a class="feynman__link color-text_blue" href="#">Подробнее</a>
+          <img class="feynman__img-photo" src="./images/feynman.png" alt="feynman photo" />
+        </section>
 
         <section class="kaufman"></section>
       </main>
