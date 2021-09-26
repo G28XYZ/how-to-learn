@@ -17,7 +17,7 @@
   max-height: 756px;
   display: flex;
   position: relative;
-  background-color: #efefef;
+  background-color: #f2f2f2;
   /* выше установили ограничения для секции */
 }
 
@@ -55,7 +55,7 @@
 .header__link {
   font-family: "Fira Code", monospace;
   text-decoration: none;
-  color: #2567e9;
+  color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -71,7 +71,7 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
-  background: #2567e9;
+  background: #2f80ed;
   position: absolute;
   right: 0;
   top: 64px;
