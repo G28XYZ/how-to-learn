@@ -148,10 +148,7 @@
   font-size: 24px;
   font-weight: normal;
   margin: 0;
-}
-
-.digits__section-subtitle {
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .table {
@@ -167,6 +164,7 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
+  padding-top: 60px;
   margin: 0;
 }
 
@@ -176,18 +174,11 @@
   margin: 0;
 }
 
-.digits__table-cell {
-  margin-top: 60px;
-}
-
 .table__text {
+  padding-top: 20px;
   line-height: 1.2;
   font-size: 18px;
   margin: 0;
-}
-
-.digits__table-text {
-  margin-top: 20px;
 }
 
 /* }}} блок </digits> */
@@ -258,7 +249,6 @@
 }
 
 .section-subtitle_theme_dark {
-  margin-top: 20px;
   color: white;
 }
 
@@ -271,7 +261,7 @@
   width: 200px;
   color: white;
   margin-right: 0;
-  margin-top: 80px;
+  margin-top: 20px;
 }
 
 .table__text_theme_dark {
@@ -328,6 +318,7 @@
 
 .footer__column-heading {
   font-weight: bold;
+  margin: 0;
 }
 
 .footer__social-icon {
