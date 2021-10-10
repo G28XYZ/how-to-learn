@@ -1,3 +1,4 @@
 # Научиться учиться
 
-<a target="_blank" href="https://github.com/g28xyz/how-to-learn"><img src="https://img.shields.io/github/stars/g28xyz/how-to-learn" /></a>
+
+<img src='https://raw.githubusercontent.com/G28XYZ/g28xyz.github.io/main/how-to-learn/video/video_site_how_to_learn.gif' alt="анимация - демо сайта how to learn">
