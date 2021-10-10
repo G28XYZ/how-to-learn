@@ -42,4 +42,4 @@
 
 Free
 
-[![Alex Kucher](https://raw.githubusercontent.com/G28XYZ/g28xyz.github.io/main/how-to-learn/video/powered.png)](https://github.com/G28XYZ)
+[![Alex Kucher](https://img.shields.io/badge/Powered%20by-Alex%20Kucher-green?style=plastic)](https://github.com/G28XYZ)
