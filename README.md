@@ -14,6 +14,7 @@
 > подходы к обучению вы можете использовать в своей жизни?
 
 На этот вопрос может подсказать ответ - сайт [How to learn](https://g28xyz.github.io/how-to-learn/ "Ссылка на сайт").
+
 На сайте вы найдёте:
 
 - Различные техники и методы обучения
@@ -34,3 +35,10 @@
 ---
 
 Найти и добавить favicon.ico для сайта.
+
+## License
+__---
+
+Free
+
+[![Alex Kucher](https://raw.githubusercontent.com/G28XYZ/g28xyz.github.io/main/how-to-learn/video/powered.png)](https://g28xyz.github.io/how-to-learn/)
