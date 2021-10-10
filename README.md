@@ -42,4 +42,4 @@
 
 Free
 
-[![Alex Kucher](https://raw.githubusercontent.com/G28XYZ/g28xyz.github.io/main/how-to-learn/video/powered.png)](https://g28xyz.github.io/how-to-learn/)
+[![Alex Kucher](https://raw.githubusercontent.com/G28XYZ/g28xyz.github.io/main/how-to-learn/video/powered.png)](https://github.com/G28XYZ)
