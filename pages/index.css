@@ -10,13 +10,14 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
 /* </header> */
+/* BLOCK <description> */
+@import url(../blocks/description/description.css);
+/* </description> */
 /* BLOCK <section> */
 @import url(../blocks/section/section.css);
 @import url(../blocks/section/_theme/section_theme_dark.css);
 /* </section> */
-/* BLOCK <digits> */
-@import url(../blocks/digits/digits.css);
-/* </digits> */
+
 /* BLOCK <techniques> */
 @import url(../blocks/techniques/techniques.css);
 /* </techniques> */
@@ -25,6 +26,9 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 /* </video> */
+/* BLOCK <oakley> */
+@import url(../blocks/oakley/oakley.css);
+/* </oakley> */
 /* BLOCK <cards> */
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
@@ -46,6 +50,20 @@
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 /* </feynman> */
+/* BLOCK <digits> */
+@import url(../blocks/digits/digits.css);
+/* </digits> */
+
+/* BLOCK <khan> */
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__author/khan__author.css);
+@import url(../blocks/khan/__book/khan__book.css);
+@import url(../blocks/khan/__buy-link/khan__buy-link.css);
+@import url(../blocks/khan/__container/khan__container.css);
+@import url(../blocks/khan/__quote/khan__quote.css);
+@import url(../blocks/khan/__title/khan__title.css);
+/* </khan> */
+
 /* BLOCK <kaufman> */
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
@@ -63,6 +81,12 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 /* </table> */
+
+/* BLOCK <resources> */
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
+/* </resources> */
+
 /* BLOCK <footer> */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
