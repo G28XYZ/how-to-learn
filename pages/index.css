@@ -13,7 +13,6 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
-@import url(../blocks/header/__square-pic/_rotation/header__square-pic_rotation.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
 /* </header> */
@@ -77,7 +76,6 @@
 /* BLOCK <kaufman> */
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(../blocks/kaufman/__triangle/_rotation/kaufman__triangle_rotation.css);
 /* </kaufman> */
 /* BLOCK <logo> */
 @import url(../blocks/logo/logo.css);
@@ -102,7 +100,6 @@
 /* BLOCK <footer> */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__social-icon/footer__column-icon.css);
